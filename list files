@@ -1,0 +1,7 @@
+File contains the list of dot files
+
+.Xdefaults/.Xresources
+.vimrc
+.tmux.conf
+.zshrc
+.cshrc
